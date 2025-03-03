@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Gontier-Julien/GrapheneOS/releases/download/2025021100/tokay-ota_update-2025021100.zip",
-    "location_csig": "https://github.com/Gontier-Julien/GrapheneOS/releases/download/2025021100/tokay-ota_update-2025021100.zip.csig"
+    "location_ota": "https://github.com/Gontier-Julien/GrapheneOS/releases/download/2025030200/tokay-ota_update-2025030200.zip",
+    "location_csig": "https://github.com/Gontier-Julien/GrapheneOS/releases/download/2025030200/tokay-ota_update-2025030200.zip.csig"
   }
 }
